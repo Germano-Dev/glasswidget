@@ -19,7 +19,7 @@ class _TesteState extends State<Teste> {
             mainAxisSize: MainAxisSize.min,
             children: [
               GlassMorphism(
-                start: 0.6,
+                start: 0.2,
                 end: 0.1,
                 child: Padding(
                   padding: EdgeInsets.all(8.0),
